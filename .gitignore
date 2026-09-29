@@ -1,0 +1,13 @@
+# Database local
+sampleapp/db/data/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
